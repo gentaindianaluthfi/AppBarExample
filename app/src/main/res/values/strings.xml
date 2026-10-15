@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppbarExample</string>
+    <string name="menu_1">Menu 1</string>
+    <string name="menu_2">Menu 2</string>
+    <string name="masukkan_kata">Masukkan kata</string>
+    <string name="ini_adalah_menu_activity">Ini adalah menu activity</string>
+    <string name="large_text">Material is the metaphor.\n\nA material metaphor is the unifying theory of a rationalized space and a system of motion. The material is grounded in tactile reality, inspired by the study of paper and ink, yet technologically advanced and open to imagination and magic.\nSurfaces and edges of the material provide visual cues that are grounded in reality. The use of familiar tactile attributes helps users quickly understand affordances. Yet the flexibility of the material creates new affordances that supercede those in the physical world, without breaking the rules of physics.\nThe fundamentals of light, surface, and movement are key to conveying how objects move, interact, and exist in space and in relation to each other.\nRealistic lighting shows seams, divides space, and indicates moving parts.\n\nBold, graphic, intentional.\n\nThe foundational elements of print based design typography, grids, space, scale, color, and use of imagery guide visual treatments. These elements do far more than please the eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge imagery, large scale typography, and intentional white space create a bold and graphic interface that immerse the user in the experience.\nAn emphasis on user actions makes core functionality immediately apparent and provides waypoints for the user.\n\nMotion provides meaning.</string>
+</resources>
